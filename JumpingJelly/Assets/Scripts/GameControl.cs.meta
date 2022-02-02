@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: edc001cd1f89f4d509a6cdf7aecbf4c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BackgroundPrefab: {fileID: 3346660630777758336, guid: c94390cd6bd5e459c8bc6fc92c834f50, type: 3}
+  - littleGrassPrefab: {instanceID: 0}
+  - bigGrassPrefab: {instanceID: 0}
+  - smallGrassCoinPrefab: {instanceID: 0}
+  - smallGrassBombPrefab: {instanceID: 0}
+  - bigGrassMixPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
